@@ -12,7 +12,7 @@ Official client libraries for the [VoiceTel REST API](https://voicetel.com/docs/
 - [SDKs](#-sdks)
 - [Tooling](#-tooling)
 - [What every SDK gives you](#-what-every-sdk-gives-you)
-- [API documentation](#-api-documentation)
+- [API Documentation](#-api-documentation)
 - [Authentication, in 30 seconds](#-authentication-in-30-seconds)
 - [Versioning & spec parity](#-versioning--spec-parity)
 - [Contributing](#-contributing)
@@ -55,12 +55,11 @@ Each row links straight to the SDK repo. All twelve cover the same **74 operatio
 - **CI green on push** — every repo has GitHub Actions running tests + lint + coverage on every commit.
 - **MIT-licensed** — use them anywhere, commercial or otherwise.
 
-## 📖 API documentation
+## 📖 API Documentation
 
 - **Reference docs:** [voicetel.com/docs/api/v2.2/](https://voicetel.com/docs/api/v2.2/)
-- **Interactive playground:** [voicetel.com/docs/api/v2.2/playground/](https://voicetel.com/docs/api/v2.2/playground/)
-- **API credentials self-service:** [voicetel.com/docs/api/v2.2/credentials/](https://voicetel.com/docs/api/v2.2/credentials/)
-- **Raw OpenAPI 3.1 spec:** [api.voicetel.com/doc/v2.2.json](https://api.voicetel.com/doc/v2.2.json)
+- **Interactive playground:** [voicetel.com/docs/api/v2.2/playground/](https://voicetel.com/docs/api/v2.2/playground/) — try the API in your browser without writing any code
+- **API credentials:** [voicetel.com/docs/api/v2.2/credentials/](https://voicetel.com/docs/api/v2.2/credentials/)
 
 ## 🔑 Authentication, in 30 seconds
 
